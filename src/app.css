@@ -46,3 +46,16 @@ body{
  .flashcard-options :first-child{
     padding-top: 0px;
  }
+
+ .header{
+    text-align: center;
+ }
+
+ .btn{
+    cursor: pointer;
+    color: white;
+    border: none;
+    background-color: rgb(57, 56, 56);
+    height: 30px;
+    border-radius: 4px;
+ }

@@ -1,6 +1,6 @@
 import Flashcard from "./flashcard";
 
-export default function FlashcardsList({ flashcards }) {
+export default function FlashcardList({ flashcards }) {
   return (
     <div className="card-grid">
       {flashcards.map((flashcard) => (
