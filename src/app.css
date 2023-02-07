@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(133, 144, 136);
+}
+
+
+.card-grid{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.card{
+    width : 350px;
+    height: 200px;
+    box-shadow: 2px 2px 8px 5px rgb(90, 99, 92);;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+   background-color: rgb(232, 230, 230);
+}
+
+.card .back{
+   font-size: 50px; 
+}
+
+.card .front p{
+    font-weight: bold;
+    font-size: 18px;
+ }
+
+
+ .flashcard-options{
+    display: flex;
+    flex-direction: column;
+    color: rgba(0,0,0, .7);
+ }
+
+ .flashcard-options :first-child{
+    padding-top: 0px;
+ }

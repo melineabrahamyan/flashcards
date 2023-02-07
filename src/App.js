@@ -18,6 +18,36 @@ const FLASHCARDS = [
     answer: "Paris",
     options: ["Paris", "Moscow", "Berlin", "London"],
   },
+  {
+    id: 2,
+    question: "What is the capital of France",
+    answer: "Paris",
+    options: ["Paris", "Moscow", "Berlin", "London"],
+  },
+  {
+    id: 2,
+    question: "What is the capital of France What is the capital of France",
+    answer: "Paris",
+    options: ["Paris", "Moscow", "Berlin", "London"],
+  },
+  {
+    id: 2,
+    question: "What is the capital of France",
+    answer: "Paris",
+    options: ["Paris", "Moscow", "Berlin", "London"],
+  },
+  {
+    id: 2,
+    question: "What is the capital of France",
+    answer: "Paris",
+    options: ["Paris", "Moscow", "Berlin", "London"],
+  },
+  {
+    id: 2,
+    question: "What is the capital of France",
+    answer: "Paris",
+    options: ["Paris", "Moscow", "Berlin", "London"],
+  },
 ];
 
 export default App;
