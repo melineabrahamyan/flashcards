@@ -14,8 +14,8 @@ body{
 }
 
 .card{
-    width : 350px;
-    height: 200px;
+    width : 400px;
+    height: 250px;
     box-shadow: 2px 2px 8px 5px rgb(90, 99, 92);;
     border-radius: 4px;
     cursor: pointer;
@@ -27,7 +27,8 @@ body{
 }
 
 .card .back{
-   font-size: 50px; 
+   font-size: 30px; 
+   font-weight: bold;
 }
 
 .card .front p{
